@@ -1,1 +1,1 @@
-# Multi-modal-Learning-for-Gene-Disease-Prioritization
+# Multi-modal-disease-gene-prioritization
